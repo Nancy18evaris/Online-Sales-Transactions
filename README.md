@@ -1,4 +1,4 @@
-I have taken this dataset from Kaggle.This dataset is an online transactions dataset. The information provided in it includes:
+The dataset is sourced from Kaggle.This dataset is an online transactions dataset. The information provided in it includes:
 Order ID: A unique identifier for the sales order.
 Date: The date of the sales transaction.
 Category: The brand category of the product sold.
